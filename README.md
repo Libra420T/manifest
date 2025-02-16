@@ -13,7 +13,7 @@ Before you begin, ensure your system meets the following requirements:
     ```
 2. Sync up with the remote repository:
     ```bash
-    repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j$(nproc --all)
+    repo sync -c --force-sync
     ```
 
 # Compilation of Project Infinity X:
