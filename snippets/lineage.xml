@@ -63,9 +63,6 @@
   <!-- legacy AOSP additions -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral" remote="aosp" revision="refs/tags/android-15.0.0_r5" />
-  </project>
-  </project>
-  </project>
 
   <!-- LineageOS additions -->
   <project path="development" name="android_development" groups="developers,pdk-cw-fs,pdk-fs" remote="lineage" />
