@@ -59,7 +59,6 @@
   <remove-project name="device/google/raviole-kernels/5.10" />
   <remove-project name="device/google/shusky" />
   <remove-project name="device/google/shusky-sepolicy" />
-  <remove-project name="device/google/shusky-kernels/5.15" />
   <remove-project name="device/google/tangorpro" />
   <remove-project name="device/google/tangorpro-sepolicy" />
   <remove-project name="device/google/tangorpro-kernels/5.10" />

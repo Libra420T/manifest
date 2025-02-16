@@ -4,9 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
-  <default revision="refs/tags/android-15.0.0_r17"
+  <default revision="refs/tags/android-15.0.0_r14"
            remote="aosp"
-           sync-j="4" />
+           sync-j="14" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-15.0.0_r17"/>
   <contactinfo bugurl="go/repo-bug" />
@@ -1049,7 +1049,6 @@
   <project path="hardware/nxp/uwb" name="platform/hardware/nxp/uwb" />
   <project path="hardware/nxp/secure_element" name="platform/hardware/nxp/secure_element" groups="pdk" />
   <project path="hardware/nxp/weaver" name="platform/hardware/nxp/weaver" groups="pdk" />
-  <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan,pdk-qcom" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
   <project path="hardware/st/nfc" name="platform/hardware/st/nfc" groups="pdk" />
   <project path="hardware/st/secure_element" name="platform/hardware/st/secure_element" groups="pdk" />

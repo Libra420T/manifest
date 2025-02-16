@@ -97,5 +97,4 @@
   <project path="vendor/bcr" name="Chaitanyakm/vendor_bcr" remote="github" revision="main" />
   <project path="vendor/infinity" name="vendor_infinity" remote="infinity" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="infinity" />
-  <project path="vendor/qcom/opensource/usb" name="vendor_qcom_opensource_usb" groups="qcom,kailua-vendor" remote="infinity" />
 </manifest>
