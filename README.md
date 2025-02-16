@@ -9,7 +9,7 @@ Before you begin, ensure your system meets the following requirements:
 ## Initialization and Syncing:
 1. Initialize your local repository:
     ```bash
-    repo init --no-repo-verify --git-lfs -u https://github.com/Libra420T/manifest -b 15 -g default,-mips,-darwin,-notdefault
+    repo init --no-repo-verify --git-lfs -u https://github.com/Libra420T/manifest -b pixel -g default,-mips,-darwin,-notdefault
     ```
 2. Sync up with the remote repository:
     ```bash
